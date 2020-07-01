@@ -10,7 +10,7 @@ const Buttons = ({ handleInput }) => {
       <div id="clear" value="AC" onClick={handleClick}>
         AC
       </div>
-      <div id="divide" value="/" onClick={handleClick}>
+      <div id="divide" onClick={handleClick}>
         /
       </div>
       <div id="multiply" onClick={handleClick}>
