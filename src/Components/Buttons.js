@@ -31,7 +31,7 @@ const Buttons = ({ handleInput }) => {
       <div id="four" onClick={handleClick}>
         4
       </div>
-      <div id="five " onClick={handleClick}>
+      <div id="five" onClick={handleClick}>
         5
       </div>
       <div id="six" onClick={handleClick}>
